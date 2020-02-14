@@ -1,0 +1,15 @@
+insert into categories values(5, 'Mobile') on conflict do nothing;
+insert into categories values(6, 'Web') on conflict do nothing;
+insert into categories values(7, 'Sistemas Operacionais') on conflict do nothing;
+insert into categories values(8, 'Arquitetura de Software') on conflict do nothing;
+insert into categories values(9, 'Teste de Software') on conflict do nothing;
+insert into categories values(10, 'Inteligência Artificial') on conflict do nothing;
+insert into categories values(11, 'Aprendizagem de Máquina') on conflict do nothing;
+insert into categories values(12, 'Arquitetura de Hardware') on conflict do nothing;
+insert into categories values(13, 'Banco de Dados') on conflict do nothing;
+insert into categories values(14, 'Algoritmos') on conflict do nothing;
+insert into categories values(15, 'Estruturas de dados') on conflict do nothing;
+insert into categories values(16, 'Álgebra Computacional') on conflict do nothing;
+insert into categories values(17, 'Computação Gráfica') on conflict do nothing;
+insert into categories values(18, 'Seminários') on conflict do nothing;
+insert into categories values(19, 'Realidade Virtual') on conflict do nothing;
